@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AutoCompleteTextBox</string>
+    <string name="action_settings">Settings</string>
+    <string name="pre_msg">CheckedTextView is</string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <string name="checkedTextView">CheckedTextView</string>
+
+
+    <string-array name="country_array">
+        <item>India</item>
+        <item>Albira</item>
+        <item>American</item>
+        <item>Andora</item>
+        <item>Angula</item>
+    </string-array>
+</resources>
